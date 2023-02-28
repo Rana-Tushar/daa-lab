@@ -39,7 +39,7 @@ int main(){
  
     int i,j,n,e,arr[100],c,temp;
  
-    printf("Enter the iimit of Array : ");
+    printf("Enter the limit of Array : ");
  
     scanf("%d",&n);
  
